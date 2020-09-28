@@ -9,3 +9,6 @@ Monitor : MSI AG32CV</br>
 Power Supply : EVGA 850 B3, 850W
 Cpu cooler : Enermax ETS-T50A-FSS</br>
 Pc case : S-3901 IMPULSE
+
+
+You should edit the config.plist with clover configurator for your config !
