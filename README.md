@@ -12,3 +12,4 @@ Pc case : S-3901 IMPULSE
 
 
 You should edit the config.plist with clover configurator for your config !
+also edit boot disk and the boot args (agdpmod=pikera is for rx 5700 xt)
